@@ -7,4 +7,4 @@ function somaRepetida() {
         console.log(sum);
         sum = sum + numero1;
     }
-}
+} 

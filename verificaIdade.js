@@ -6,4 +6,4 @@ var dias;
 
 function verificaIdade() {
     console.log("Sua idade em dias é de: ", ((anos*diasAno) + (meses*diasMes) + (dias)))
-}
+} 

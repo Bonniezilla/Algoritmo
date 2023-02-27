@@ -9,4 +9,4 @@ function verificaFatorial() {
         n1Antecessor--;
     }
     console.log(tracker);
-}
+} 

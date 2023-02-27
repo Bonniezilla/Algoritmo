@@ -23,7 +23,7 @@ function calcularMediaAritmetica() {
     for (var i = 3; i >= notas.length; i--) {
         notas.shift();
     }
-}
+} 
 
 function calcularMediaPonderada() {
     let somaNotas = 0;

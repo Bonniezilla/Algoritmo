@@ -13,5 +13,5 @@ function verifyMajor () {
 
     if (numero3 > numero2 && numero3 > numero1) {
         console.log("O maior número é o terceiro: ", n3);
-    }
+    } 
 }
